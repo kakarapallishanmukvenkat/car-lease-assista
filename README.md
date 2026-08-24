@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚗 LLM-Driven Car Lease Contract Review & Negotiation AI Assistant
 
 An AI-powered system that analyzes car lease/loan contracts, extracts key SLA clauses, integrates vehicle intelligence, highlights contract pros & cons, and assists users with negotiation through an AI chatbot.
@@ -227,3 +228,6 @@ README appears clean on GitHub
 Mentor sees clear reasoning + maturity
 
 Project looks internship-grade & interview-ready
+=======
+# car-lease-assista
+>>>>>>> personal/main
